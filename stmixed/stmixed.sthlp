@@ -107,11 +107,11 @@
 {marker vartype}{...}
 {synopthdr :vartype}
 {synoptline}
-{synopt :{opt ind:ependent}}one variance parameter per random effect, 
+{synopt :{opt diag:onal}}one variance parameter per random effect, 
 all covariances zero; the default unless a factor variable is specified{p_end}
 {synopt :{opt ex:changeable}}equal variances for random effects, 
 and one common pairwise covariance{p_end}
-{synopt :{opt id:entity}}equal variances for random effects, all 
+{synopt :{opt iden:tity}}equal variances for random effects, all 
 covariances zero; the default for factor variables{p_end}
 {synopt :{opt un:structured}}all variances and covariances distinctly 
 estimated{p_end}
@@ -286,7 +286,7 @@ relative survival model.
 
 {pmore}
 specifies the structure of the covariance
-matrix for the random effects. An {cmd:diagonal} covariance structure allows a distinct
+matrix for the random effects. A {cmd:diagonal} covariance structure allows a distinct
 variance for each random effect within a random-effects equation and 
 assumes that all covariances are zero.  {cmd:exchangeable} covariances
 have common variances and one common pairwise covariance.  {cmd:identity}
