@@ -23,3 +23,9 @@ To install directly from this GitHub repository, use:
 ```{stata}
 net install stmixed, from("https://raw.githubusercontent.com/mjcrowther/stmixed/main/")
 ```
+
+## Licence
+
+Copyright (C) 2012-2023 Michael J. Crowther.
+
+Released under the GNU General Public License, version 3. See [`LICENSE`](LICENSE).
