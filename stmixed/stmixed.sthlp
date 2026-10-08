@@ -435,11 +435,15 @@ Please report any errors you may find.{p_end}
 {p_end}
 
 {phang}
-{cmd:Crowther MJ}, Look MP, Riley RD. Multilevel mixed effects parametric survival models using adaptive Gauss-Hermite quadrature with application to recurrent events and IPD meta-analysis. {it:Statistics in Medicine} 2014;(In Press).
+{cmd:Crowther MJ}, Look MP, Riley RD. Multilevel mixed effects parametric survival models using adaptive Gauss-Hermite quadrature with application to recurrent events and individual participant data meta-analysis. {it:Statistics in Medicine} 2014;{bf:33}(22):3844-3858.
 {p_end}
 
 {phang}
-{cmd:Crowther MJ}. Extended multivariate generalised linear and non-linear mixed effect models. 2017; {it:Under review}.
+{cmd:Crowther MJ}. Multilevel mixed-effects parametric survival analysis: Estimation, simulation, and application. {it:Stata Journal} 2019;{bf:19}(4):931-949.
+{p_end}
+
+{phang}
+{cmd:Crowther MJ}. Extended multivariate generalised linear and non-linear mixed effects models. 2017; arXiv:1710.02223.
 {p_end}
 
 
